@@ -1,0 +1,10 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+platform :ios,'8.0'
+
+#TestDemo
+pod 'Masonry', '~>1.0'
+
+target "SportProgressViewDemo" do
+
+end

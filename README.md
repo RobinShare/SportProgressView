@@ -12,6 +12,8 @@ stepLabel：为UILabel，对text赋值字符串NSString，显示椭圆中间的�
 
 
 
-应用时只需使用SportProgressView.h和SportProgressView.m两个文件，具体用法参考工程项目Demo，图片资源可以自定义替换。
+应用时只需使用SportProgressView.h和SportProgressView.m两个文件，具体用法参考工程项目Demo，图片资源可以自定义替换。只供源码，不支持CocoaPods.
+
+
 
 [控件设计讲解](https://robinshare.github.io/md/iOSCodeMark/iOS开发UI篇之使用Quartz2D绘制椭圆进度条.html)

@@ -16,4 +16,4 @@ stepLabel：为UILabel，对text赋值字符串NSString，显示椭圆中间的�
 
 
 
-[控件设计讲解](https://robinshare.github.io/md/iOSCodeMark/2017/iOS开发UI篇之使用Quartz2D绘制椭圆进度条.html)
+[控件设计讲解](https://robinshare.github.io/md//iOSOCMark/2017/iOS开发UI篇之使用Quartz2D绘制椭圆进度条.html)
